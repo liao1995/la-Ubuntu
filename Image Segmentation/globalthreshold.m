@@ -1,4 +1,4 @@
-f = im2double(rgb2gray(imread('test.jpg')));
+f = im2double(rgb2gray(imread('lena.jpg')));
 % f = im2double(imread('test.jpg'));
 
 % Initialize threshold mean of intensity
