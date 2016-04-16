@@ -1,0 +1,28 @@
+Variables in the current scope:
+
+   Attr Name                   Size                     Bytes  Class
+   ==== ====                   ====                     =====  ===== 
+        J                      1x1                          8  double
+        Theta1                25x401                    80200  double
+        Theta2                10x26                      2080  double
+        X                   5000x400                 16000000  double
+        ans                    1x1                          8  double
+        cost                   0x0                          0  double
+        costFunction           1x1                          0  function_handle
+        debug_J                1x1                          8  double
+        g                      1x5                         40  double
+        hidden_layer_size      1x1                          8  double
+        initial_Theta1        25x401                    80200  double
+        initial_Theta2        10x26                      2080  double
+        initial_nn_params  10285x1                      82280  double
+        input_layer_size       1x1                          8  double
+        lambda                 1x1                          8  double
+        m                      1x1                          8  double
+        nn_params          10285x1                      82280  double
+        num_labels             1x1                          8  double
+        options                1x1                          8  struct
+        sel                    1x100                      800  double
+        y                   5000x1                      40000  double
+
+Total is 2046255 elements using 16370032 bytes
+
